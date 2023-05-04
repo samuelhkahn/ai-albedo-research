@@ -1,2 +1,8 @@
 .DS_Store
 .ipynb_checkpoints/
+.pt_tmp/
+Albedo Neural Network .ipynb
+albedo_ffnn_v0.pth
+saved_models/
+
+
